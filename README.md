@@ -11,7 +11,6 @@
 ## 👩‍💻 About Me
 
 - 🎨 Frontend Developer passionate about building clean, modern UIs
-- ⚡ Specialized in **React**, **TypeScript**, and **JavaScript**
 - 🌱 Always learning and improving my craft
 - 💡 Love turning designs into pixel-perfect, performant web apps
 - 🚀 Focused on writing readable and maintainable code
