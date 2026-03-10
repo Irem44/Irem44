@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm İrem Sude Demir ✨
+# Hi, I'm İrem Sude ✨
 
-**Frontend Developer · JavaScript · TypeScript · React**
+**Frontend Developer · Software Engineer · TypeScript · React**
 
 ---
 
 </div>
 
 ## 👩‍💻 About Me
-
+- 🎓 Software Engineering graduate (2025)
 - 🎨 Frontend Developer passionate about building clean, modern UIs
 - 🌱 Always learning and improving my craft
 - 💡 Love turning designs into pixel-perfect, performant web apps
