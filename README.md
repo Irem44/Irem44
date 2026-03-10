@@ -20,7 +20,7 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
+<div align="right">
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,vscode,figma)](https://skillicons.dev)
 
@@ -32,9 +32,7 @@
 
 <div align="center">
 
-![İrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irem44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irem44&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Irem44&theme=tokyonight&hide_border=true)
 
