@@ -17,11 +17,19 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Technologies
 
-<div align="left">
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,vscode)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://skillicons.dev)
+
+</div>
+
+## 🛠️ Tools
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 </div>
 
