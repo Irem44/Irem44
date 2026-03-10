@@ -38,9 +38,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
