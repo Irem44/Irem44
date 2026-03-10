@@ -20,7 +20,7 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="right">
+<div align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,vscode,figma)](https://skillicons.dev)
 
