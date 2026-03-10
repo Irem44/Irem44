@@ -19,7 +19,7 @@
 
 ## 💻 Technologies
 
-<div align="center">
+<div align="left">
 
 [![Technologies](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://skillicons.dev)
 
@@ -27,7 +27,7 @@
 
 ## 🛠️ Tools
 
-<div align="center">
+<div align="left">
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
